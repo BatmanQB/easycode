@@ -1,0 +1,14 @@
+.wrapper {
+  padding: 50px;
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.wrapper h1 {
+  color: #4fac45;
+}
+
+.wrapper h2 {
+  background-color: #fff333;
+}
